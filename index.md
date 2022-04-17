@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Senior Protfolio
+## By Zain Alimam
 
 You can use the [editor on GitHub](https://github.com/z0a39098/z0a39098.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
