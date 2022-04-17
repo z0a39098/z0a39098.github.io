@@ -305,5 +305,5 @@ public class Hotel extends JFrame implements ActionListener{
 }
 
 ```
-(file:///C:/Users/zaina/Desktop/Assignments/Hotel%20Reservations%20GUI.pdf)
+[Hotel Reservations Gui](file:///C:/Users/zaina/Desktop/Assignments/Hotel%20Reservations%20GUI.pdf)
 
